@@ -1,1 +1,3 @@
-general_ner_model/model.safetensors
+general_ner_model
+final_model
+tokenizer
