@@ -24,7 +24,7 @@ For this project, two datasets from Hugging Face are used:
 git clone https://github.com/YacineAitKaci/NER-Fine-tuning.git
 
 # Navigate to the project directory
-cd NER-Fine-Tuning
+cd NER-Fine-tuning
 
 # Install required libraries
 pip install transformers[sentencepiece] datasets nltk numpy seqeval evaluate matplotlib 
